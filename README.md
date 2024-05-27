@@ -7,3 +7,6 @@
 - 💬 Ask me about QA
 - 📫 How to reach me: my email is alealvarado90@gmail.com
 - 😄 Pronouns: (she / her)
+- Certifications:
+  - 🤓 ISTQB CFTL Certified
+  - 😎 SCRUM Foundation Certifed
