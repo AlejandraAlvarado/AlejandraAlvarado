@@ -1,6 +1,6 @@
 ## Hola! 👋
 
-- 🔭 I’m currently working on Banking like QA Manager 
+- 🔭 I’m currently working on the Banking sector like QA Manager 
 - 🌱 I’m currently learning Frontend with Tecnolochicas PRO and Python by myself
 - 👯 I’m looking to collaborate on IA projects
 - 🤔 I’m looking for help with QA Automation
